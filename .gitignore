@@ -2,6 +2,7 @@
 saved_models/
 
 VOC2012_train_val/ 
+data/
 
 *.pyc
 
